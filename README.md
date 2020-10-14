@@ -14,12 +14,11 @@ My name is Nina Kim and I'm currently a full-stack web developing student attend
 -------------------------------------------
 ### Github Stats 🤖
 
-<div style="display: flex;">
-  <img height="170em" width="350em" src="https://github-readme-stats.vercel.app/api?username=ninankkim&theme=vue&show_icons=true" /><br>
-  <img height="170em" width="350em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninankkim&theme=vue&layout=compact" />
-</div>
+[![](https://github-readme-stats.vercel.app/api?username=ninankkim&theme=blue-green)](https://github.com/ninankkim/github-readme-stats)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=ninankkim&theme=blue-green)
+
 
 -------------------------------------------
-
+### Contacts ☎️
 
 Jumbotron: https://www.canva.com/
