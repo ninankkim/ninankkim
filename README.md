@@ -20,9 +20,9 @@ My name is Nina Kim and I'm currently a full-stack web developing student attend
 -------------------------------------------
 ### Contacts ☎️
 
-Mobile: (678) 575-9449 <br>
-Email: ninankkim@gmail.com <br>
-LinkedIn: https://www.linkedin.com/in/nina-kim-184769172/
+Mobile📞: (678) 575-9449 <br>
+Email📨: ninankkim@gmail.com <br>
+LinkedIn🔗: https://www.linkedin.com/in/nina-kim-184769172/
 
 -------------------------------------------
 Jumbotron: https://www.canva.com/
