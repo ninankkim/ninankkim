@@ -12,9 +12,14 @@ My name is Nina Kim and I'm currently a full-stack web developing student attend
 - ⚡  Fun fact: I have a doggo named Sauce. 
 
 -------------------------------------------
+### Github Stats 🤖
+
 <div style="display: flex;">
   <img height="170em" width="350em" src="https://github-readme-stats.vercel.app/api?username=ninankkim&theme=vue&show_icons=true" /><br>
-    <img height="170em" width="350em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninankkim&theme=vue&layout=compact" />
+  <img height="170em" width="350em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninankkim&theme=vue&layout=compact" />
 </div>
+
+-------------------------------------------
+
 
 Jumbotron: https://www.canva.com/
