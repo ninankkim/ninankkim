@@ -5,7 +5,7 @@ My name is Nina Kim and I'm currently a full-stack web developing student attend
 
 -------------------------------------------
 
-- 🔭  I’m currently working on: a back-end project with my teammates and Hacktober!
+- 🔭  I’m currently working on: React and Hacktober (Happy Hacking)!
 - 🌱  I’m currently learning: node and express.
 - 👯  I’m looking to collaborate on: anything, I'm always up to learning/relearning new things!
 - 😄  Pronouns: she/her/hers.
