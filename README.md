@@ -1,4 +1,4 @@
-![](imagesforreadme/lightbulb.pdf)
+![](imagesforreadme/nina%20kim.png)
 ### Hiya There 👋
 
 My name is Nina Kim and I'm currently a full-stack web developing student attending DigitalCrafts, an established coding bootcamp where we learn both front-end and back-end coding languages. I'm currently working in the Greater Atlanta Area. Please feel free to checkout my repositories and take a peek at what I've been working on - I'm always open to pair programming!
