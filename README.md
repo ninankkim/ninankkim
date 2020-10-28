@@ -56,4 +56,7 @@ Email📨    ninankkim@gmail.com <br>
 </a>  
 
 -------------------------------------------
+My Favorite Quote:
+"You miss 100% of the shots you don't take." - Michael Scott, Favorite Boss
+
 Jumbotron: https://www.canva.com/
