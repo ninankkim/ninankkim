@@ -10,8 +10,8 @@ My name is Nina Kim and I'm currently a full-stack web developing student attend
 - 👯  I’m looking to collaborate on: anything, I'm always up to learning/relearning new things!
 - 😄  Pronouns: she/her/hers.
 - 🎵  Favorite Music: 2000s R&B vibes and Lo-Fi music!
-- ⚡  Fun fact: I have a doggo named Sauce. 
-
+- ⚡  Fun Fact: I have a doggo named Sauce. 
+- 🤡  Favorite Quote: "You miss 100% of the shots you don't take." - Michael Scott, The Always Favorite Boss
 -------------------------------------------
 
 ### Coding Languages 🧩
@@ -57,7 +57,5 @@ Email📨    ninankkim@gmail.com <br>
 </a>  
 
 -------------------------------------------
-My Favorite Quote:
-"You miss 100% of the shots you don't take." - Michael Scott, Favorite Boss
 
 Jumbotron: https://www.canva.com/
