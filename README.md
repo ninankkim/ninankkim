@@ -5,8 +5,8 @@ My name is Nina Kim and I'm currently a full-stack web developing student attend
 
 -------------------------------------------
 
-- 🔭  I’m currently working on: React Project and Hacktober (Happy Hacking)!
-- 🌱  I’m currently learning: React. 
+- 🔭  I’m currently working on: Personal Projects! 
+- 🌱  I’m currently learning: React and Redux! 
 - 👯  I’m looking to collaborate on: anything, I'm always up to learning/relearning new things!
 - 😄  Pronouns: she/her/hers.
 - 🎵  Favorite Music: 2000s R&B vibes and Lo-Fi music!
